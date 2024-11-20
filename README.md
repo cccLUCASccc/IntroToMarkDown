@@ -17,7 +17,7 @@
 2. Ouvrir des portes dans le monde professionnel du developpement.
 
 ### Les valeurs à avoir dans une équipes:
-1. Une bonne entante entre ces membres.
+1. Une bonne entente entre ces membres.
 2. Une bonne disparité des tâches.
 3. De l'entraide.
 
