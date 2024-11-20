@@ -21,6 +21,6 @@
 2. Une bonne disparité des tâches.
 3. De l'entraide.
 
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExems2amdxM284MWloeWlvYzg0a2J2YW5qdDB4d2k3OWk3aGNvaWsxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/duNowzaVje6Di3hnOu/giphy.webp
+<img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExems2amdxM284MWloeWlvYzg0a2J2YW5qdDB4d2k3OWk3aGNvaWsxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/duNowzaVje6Di3hnOu/giphy.webp">
 
 
