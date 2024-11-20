@@ -21,7 +21,7 @@
 2. Une bonne disparité des tâches.
 3. De l'entraide.
 
-### Voici un GIF (moi après une bonne journée):
+### Voici un GIF: 
 <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms5YzhhNjE1ZWE1dzZyYzBjN2k5azlrbXZraGZjYzI2bGQ4aTR6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T9pLxAiWOTywm1H7sd/giphy.webp">
 
 
