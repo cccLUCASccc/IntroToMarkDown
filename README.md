@@ -5,7 +5,6 @@
 ### Les 3 points à propos de moi:
 1. Marchand d'art et expert en antiquités XIXeme et XXeme.
 2. Developpeur de jeux video indépendant depuis 10 ans.
-3. Aime apprendre toujours de nouvelles choses.
 
 ### Les 3 choses que j'aime le plus:
 1. Mes 5 chiens.
